@@ -1,13 +1,14 @@
-Hello guys Welcome to ECR TEchnology Services
+Hello guys Welcome to ECR Technology Services
 
 ****Everyone should identify him/her self by giving us your name.
 
 1. Chime Emmanuel
     -   System Consultant & Web Developer (ECR)
-<<<<<<< HEAD
+	
+	- I enjoy talking about tech and building the platform for great IT guys.
+
 2. Agwu Emmanuel
 	-   trainee in ECR Class
-=======
+
 3. Dickson Bright
 	-- Andriod developer--
->>>>>>> 32b6949adaeb46bcc87b27d60a3190c8835c47c4
